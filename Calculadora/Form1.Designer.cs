@@ -185,7 +185,7 @@ namespace Calculadora
             this.textBox1.ReadOnly = true;
             this.textBox1.Size = new System.Drawing.Size(365, 125);
             this.textBox1.TabIndex = 13;
-            // 
+            //  
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(310, 278);
