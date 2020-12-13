@@ -1,0 +1,9 @@
+C:\Users\JuanFa Arias Jimenez\Desktop\Calculadora\calculadora\bin\Release\calculadora.exe.config
+C:\Users\JuanFa Arias Jimenez\Desktop\Calculadora\calculadora\bin\Release\calculadora.exe
+C:\Users\JuanFa Arias Jimenez\Desktop\Calculadora\calculadora\bin\Release\calculadora.pdb
+C:\Users\JuanFa Arias Jimenez\Desktop\Calculadora\calculadora\obj\Release\calculadora.Form1.resources
+C:\Users\JuanFa Arias Jimenez\Desktop\Calculadora\calculadora\obj\Release\calculadora.Properties.Resources.resources
+C:\Users\JuanFa Arias Jimenez\Desktop\Calculadora\calculadora\obj\Release\calculadora.csproj.GenerateResource.cache
+C:\Users\JuanFa Arias Jimenez\Desktop\Calculadora\calculadora\obj\Release\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\JuanFa Arias Jimenez\Desktop\Calculadora\calculadora\obj\Release\calculadora.exe
+C:\Users\JuanFa Arias Jimenez\Desktop\Calculadora\calculadora\obj\Release\calculadora.pdb

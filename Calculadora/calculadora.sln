@@ -5,16 +5,20 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadora", "calculadora.csproj", "{019AA7D3-F03A-499C-BBDA-0585F2E8FCD2}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{ADD82FC5-36DB-40C2-9E4D-F026833742A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{019AA7D3-F03A-499C-BBDA-0585F2E8FCD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{019AA7D3-F03A-499C-BBDA-0585F2E8FCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{019AA7D3-F03A-499C-BBDA-0585F2E8FCD2}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{019AA7D3-F03A-499C-BBDA-0585F2E8FCD2}.Debug|Any CPU.Build.0 = Release|Any CPU
 		{019AA7D3-F03A-499C-BBDA-0585F2E8FCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{019AA7D3-F03A-499C-BBDA-0585F2E8FCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD82FC5-36DB-40C2-9E4D-F026833742A7}.Debug|Any CPU.ActiveCfg = Debug
+		{ADD82FC5-36DB-40C2-9E4D-F026833742A7}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

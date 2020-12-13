@@ -24,7 +24,7 @@ namespace calculadora
         Clases.ClassResta obj2 = new Clases.ClassResta();
         Clases.ClassMultiplicación obj3 = new Clases.ClassMultiplicación();
         Clases.ClassDivición obj4 = new Clases.ClassDivición();
-
+        
         private void button1_Click(object sender, EventArgs e)
         {
             operador = "+";
