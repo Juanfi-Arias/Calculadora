@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace calculadora.Clases
 {
-    class ClassSuma
+    class ClassDivición
     {
-        public double Sumar(double N1, double N2)
+        public double Dividir(double N1, double N2)
         {
-            double S;
-            S = N1 + N2;
-            return S;
+            double D;
+            D = N1 / N2;
+            return D;
         }
     }
 }

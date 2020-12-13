@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace calculadora.Clases
 {
-    class ClassSuma
+    class ClassMultiplicación
     {
-        public double Sumar(double N1, double N2)
+        public double Multiplicar(double N1, double N2)
         {
-            double S;
-            S = N1 + N2;
-            return S;
+            double M;
+            M = N1 * N2;
+            return M;
         }
     }
 }
